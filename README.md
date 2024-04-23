@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @lukasmediagroup
+- 👀 I’m interested in web development, machine learning, AI technologies, and Python programming.
+- 🌱 I’m currently learning advanced JavaScript frameworks, cloud computing, and Python libraries.
+- 💞️ I’m looking to collaborate on open-source projects related to web development, machine learning, or Python programming.
+- 📫 How to reach me: mlukas@yncu.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love experimenting with new tech gadgets and exploring the latest trends in the tech world!
